@@ -23,6 +23,12 @@ The project demonstrates relational database design, constraints, foreign keys, 
 
 ## Database Design
 
+### Entity Relationship Diagram
+
+![Hospital Management System ER Diagram](docs/er-diagram.png)
+
+The database follows a relational design connecting departments, doctors, patients, appointments, prescriptions, and billing records through primary and foreign keys.
+
 ```text
 departments
     │
